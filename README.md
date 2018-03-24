@@ -1,4 +1,4 @@
-## README
+## Setup a secure (SSH) tunnel as a systemd service.
 
 Create a template service file at `/etc/systemd/system/secure-tunnel@.service`. The template parameter will correspond to the name
 of target host:
